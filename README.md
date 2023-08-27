@@ -11,13 +11,7 @@ SecurePass is a password utility application built in Python. It offers features
 
 ![Demo](/Image/Screenshot_20230130_232432.png)
 
-## How to clone the repository
 
-To clone the repository and access the SecurePass application, follow these steps:
-
-```bash
-> git clone https://github.com/jaywyawhare/SecurePass.git
-```
 
 ## How to use it
 
